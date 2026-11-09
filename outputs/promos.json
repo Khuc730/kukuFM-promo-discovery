@@ -1,0 +1,1766 @@
+[
+  {
+    "promo_id": "promo_ep25_sc1_44.4",
+    "rank": 1,
+    "segments": [
+      {
+        "episode": 25,
+        "start_ts": "00:44.40",
+        "end_ts": "01:19.50"
+      }
+    ],
+    "total_duration_sec": 35.1,
+    "heuristic_scores": {
+      "hook_score": 2,
+      "cliffhanger_score": 6,
+      "dialogue_score": 10,
+      "activity_score": 10.0,
+      "heuristic_score": 6.4
+    },
+    "evaluation_status": "llm_evaluated",
+    "llm_scores": {
+      "hook_score": 8,
+      "cliffhanger_score": 9,
+      "standalone_score": 7,
+      "overall_score": 8.0
+    },
+    "hook_quote": "\"What were you doing there?\"",
+    "cliffhanger": "\"What did you find?\"",
+    "why_it_works": "The opening forces a sudden confrontation that sparks curiosity, while the ending leaves a pressing, unanswered question that compels viewers to seek the resolution.",
+    "standalone_context": "A tense interrogation between Alexander and Juliana over a mysterious visit to Ashburg Manor, hinting at a hidden threat tied to the Dowager Duchess.",
+    "confidence": "high",
+    "risk_flags": [
+      "Human editorial review required"
+    ]
+  },
+  {
+    "promo_id": "promo_ep10_sc1_9.1",
+    "rank": 2,
+    "segments": [
+      {
+        "episode": 10,
+        "start_ts": "00:09.10",
+        "end_ts": "01:08.80"
+      }
+    ],
+    "total_duration_sec": 59.7,
+    "heuristic_scores": {
+      "hook_score": 0,
+      "cliffhanger_score": 2,
+      "dialogue_score": 10,
+      "activity_score": 10,
+      "heuristic_score": 4.6
+    },
+    "evaluation_status": "llm_evaluated",
+    "llm_scores": {
+      "hook_score": 8,
+      "cliffhanger_score": 6,
+      "standalone_score": 7,
+      "overall_score": 7.5
+    },
+    "hook_quote": "\"There is blood running down your arm.\"",
+    "cliffhanger": "\"Because you are looking at me.\"",
+    "why_it_works": "The opening immediately raises stakes with a visible injury, while the ending hints at a deeper emotional connection that invites curiosity.",
+    "standalone_context": "A wounded man is brought to a healer who insists on treating his injury, revealing tension between duty and personal feelings.",
+    "confidence": "medium",
+    "risk_flags": [
+      "Human editorial review required"
+    ]
+  },
+  {
+    "promo_id": "promo_ep29_sc2_41.9",
+    "rank": 3,
+    "segments": [
+      {
+        "episode": 29,
+        "start_ts": "00:41.90",
+        "end_ts": "01:18.50"
+      }
+    ],
+    "total_duration_sec": 36.6,
+    "heuristic_scores": {
+      "hook_score": 2,
+      "cliffhanger_score": 2,
+      "dialogue_score": 10,
+      "activity_score": 10,
+      "heuristic_score": 5.2
+    },
+    "evaluation_status": "llm_evaluated",
+    "llm_scores": {
+      "hook_score": 7,
+      "cliffhanger_score": 8,
+      "standalone_score": 6,
+      "overall_score": 7.0
+    },
+    "hook_quote": "\"I know exactly what I need him to believe.\"",
+    "cliffhanger": "\"What exactly do you think a penniless veteran can do against Ashbrook?\"",
+    "why_it_works": "The opening immediately reveals a sinister plan, while the ending poses a provocative question that hints at larger stakes.",
+    "standalone_context": "A power struggle between Catherine and Juliana over a dangerous manuscript, with Catherine threatening to destroy evidence and Juliana fighting for her life.",
+    "confidence": "medium",
+    "risk_flags": [
+      "Human editorial review required",
+      "Violence",
+      "Confusing character references",
+      "Missing broader context"
+    ]
+  },
+  {
+    "promo_id": "promo_ep8_sc1_15.0",
+    "rank": 4,
+    "segments": [
+      {
+        "episode": 8,
+        "start_ts": "00:15.00",
+        "end_ts": "00:51.30"
+      }
+    ],
+    "total_duration_sec": 36.3,
+    "heuristic_scores": {
+      "hook_score": 2,
+      "cliffhanger_score": 2,
+      "dialogue_score": 10,
+      "activity_score": 10,
+      "heuristic_score": 5.2
+    },
+    "evaluation_status": "llm_evaluated",
+    "llm_scores": {
+      "hook_score": 7,
+      "cliffhanger_score": 5,
+      "standalone_score": 8,
+      "overall_score": 7.0
+    },
+    "hook_quote": "\"How do you know that?\"",
+    "cliffhanger": "\"We'll see.\"",
+    "why_it_works": "Curiosity sparks interest, and a playful tease hints at deeper dynamics.",
+    "standalone_context": "Juliana and Alexander discuss herbal healing and personal quirks in a quiet, intimate setting.",
+    "confidence": "medium",
+    "risk_flags": [
+      "Human editorial review required"
+    ]
+  },
+  {
+    "promo_id": "promo_ep15_sc1_26.8",
+    "rank": 5,
+    "segments": [
+      {
+        "episode": 15,
+        "start_ts": "00:26.80",
+        "end_ts": "01:22.80"
+      }
+    ],
+    "total_duration_sec": 56.0,
+    "heuristic_scores": {
+      "hook_score": 0,
+      "cliffhanger_score": 2,
+      "dialogue_score": 10,
+      "activity_score": 10,
+      "heuristic_score": 4.6
+    },
+    "evaluation_status": "llm_evaluated",
+    "llm_scores": {
+      "hook_score": 3,
+      "cliffhanger_score": 8,
+      "standalone_score": 6,
+      "overall_score": 7.0
+    },
+    "hook_quote": "",
+    "cliffhanger": "\"What? You want to fight us, veteran?\"",
+    "why_it_works": "The final confrontation and looming threat leave viewers eager to see the outcome.",
+    "standalone_context": "Juliana defends her garden from thugs, then a mysterious hero arrives to intervene.",
+    "confidence": "medium",
+    "risk_flags": [
+      "Human editorial review required",
+      "violence",
+      "blood"
+    ]
+  },
+  {
+    "promo_id": "promo_ep42_sc1_21.5",
+    "rank": 6,
+    "segments": [
+      {
+        "episode": 42,
+        "start_ts": "00:21.50",
+        "end_ts": "01:17.80"
+      }
+    ],
+    "total_duration_sec": 56.3,
+    "heuristic_scores": {
+      "hook_score": 2,
+      "cliffhanger_score": 4,
+      "dialogue_score": 10,
+      "activity_score": 10,
+      "heuristic_score": 5.8
+    },
+    "evaluation_status": "llm_evaluated",
+    "llm_scores": {
+      "hook_score": 6,
+      "cliffhanger_score": 8,
+      "standalone_score": 5,
+      "overall_score": 6.5
+    },
+    "hook_quote": "\"We will not.\"",
+    "cliffhanger": "\"And now, Rupert... we settle what you stole.\"",
+    "why_it_works": "The opening defiance sparks intrigue, while the final threat promises revenge, keeping viewers hooked.",
+    "standalone_context": "A contested claim to the throne surfaces as a mysterious figure, Alexander, confronts nobles and guards in a ruined cathedral.",
+    "confidence": "medium",
+    "risk_flags": [
+      "Human editorial review required",
+      "Ambiguous identity of Alexander may confuse new viewers",
+      "Lack of context about prior events could reduce clarity"
+    ]
+  },
+  {
+    "promo_id": "promo_ep46_sc1_62.8",
+    "rank": 7,
+    "segments": [
+      {
+        "episode": 46,
+        "start_ts": "01:02.80",
+        "end_ts": "01:41.80"
+      }
+    ],
+    "total_duration_sec": 39.0,
+    "heuristic_scores": {
+      "hook_score": 2,
+      "cliffhanger_score": 2,
+      "dialogue_score": 10,
+      "activity_score": 10,
+      "heuristic_score": 5.2
+    },
+    "evaluation_status": "llm_evaluated",
+    "llm_scores": {
+      "hook_score": 6,
+      "cliffhanger_score": 8,
+      "standalone_score": 5,
+      "overall_score": 6.5
+    },
+    "hook_quote": "I won't ask it for permission to love.",
+    "cliffhanger": "\"And I have the power to undo in one hearing what took you three years to steal!\"",
+    "why_it_works": "The opening defiant line immediately signals conflict, while the final threat promises stakes that compel viewers to seek resolution.",
+    "standalone_context": "Juliana confronts the High Priest over her marriage’s legitimacy, sparking a heated exchange that hints at larger institutional conflict.",
+    "confidence": "medium",
+    "risk_flags": [
+      "Human editorial review required"
+    ]
+  },
+  {
+    "promo_id": "promo_ep32_sc1_116.8",
+    "rank": 8,
+    "segments": [
+      {
+        "episode": 32,
+        "start_ts": "01:56.80",
+        "end_ts": "02:26.50"
+      }
+    ],
+    "total_duration_sec": 29.7,
+    "heuristic_scores": {
+      "hook_score": 6,
+      "cliffhanger_score": 6,
+      "dialogue_score": 10,
+      "activity_score": 10,
+      "heuristic_score": 7.6
+    },
+    "evaluation_status": "llm_evaluated",
+    "llm_scores": {
+      "hook_score": 6,
+      "cliffhanger_score": 7,
+      "standalone_score": 5,
+      "overall_score": 6.0
+    },
+    "hook_quote": "\"...but you have never learned how to make anyone love you.\"",
+    "cliffhanger": "\"...but you will never have the courage to earn what you demand from everyone else.\"",
+    "why_it_works": "The opening line hints at a deeper power struggle, while the final line leaves the protagonist’s fate hanging, driving curiosity.",
+    "standalone_context": "A confrontation between Catherine and a chained woman named Juliana over power and vulnerability.",
+    "confidence": "medium",
+    "risk_flags": [
+      "Human editorial review required",
+      "missing context for new viewers",
+      "violent imagery"
+    ]
+  },
+  {
+    "promo_id": "promo_ep27_sc1_64.0",
+    "rank": 9,
+    "segments": [
+      {
+        "episode": 27,
+        "start_ts": "01:04.00",
+        "end_ts": "02:00.00"
+      }
+    ],
+    "total_duration_sec": 56.0,
+    "heuristic_scores": {
+      "hook_score": 4,
+      "cliffhanger_score": 2,
+      "dialogue_score": 10,
+      "activity_score": 10,
+      "heuristic_score": 5.8
+    },
+    "evaluation_status": "llm_evaluated",
+    "llm_scores": {
+      "hook_score": 6,
+      "cliffhanger_score": 4,
+      "standalone_score": 7,
+      "overall_score": 6.0
+    },
+    "hook_quote": "\"Show me your hand.\"",
+    "cliffhanger": "\"Poison.\"",
+    "why_it_works": "The opening demands action and the ending reveals a deadly secret, keeping viewers curious.",
+    "standalone_context": "A maid defends giving medicine to a dying Duchess against noble scrutiny.",
+    "confidence": "medium",
+    "risk_flags": [
+      "Human editorial review required",
+      "missing context for political stakes",
+      "potentially graphic violence"
+    ]
+  },
+  {
+    "promo_id": "promo_ep1_sc1_63.0",
+    "rank": 10,
+    "segments": [
+      {
+        "episode": 1,
+        "start_ts": "01:03.00",
+        "end_ts": "01:59.50"
+      }
+    ],
+    "total_duration_sec": 56.5,
+    "heuristic_scores": {
+      "hook_score": 2,
+      "cliffhanger_score": 4,
+      "dialogue_score": 10,
+      "activity_score": 10,
+      "heuristic_score": 5.8
+    },
+    "evaluation_status": "llm_evaluated",
+    "llm_scores": {
+      "hook_score": 6,
+      "cliffhanger_score": 8,
+      "standalone_score": 5,
+      "overall_score": 6.0
+    },
+    "hook_quote": "You swore you loved me!",
+    "cliffhanger": "So that is what I was worth to you?",
+    "why_it_works": "The opening emotional accusation grabs attention, while the final question leaves the viewer craving resolution.",
+    "standalone_context": "A woman confronts her former groom and a manipulative family matriarch in a dramatic family gathering.",
+    "confidence": "medium",
+    "risk_flags": [
+      "Human editorial review required",
+      "Missing context for family dynamics",
+      "Confusing character references (Lady in Gold Gown vs. Matriarch)"
+    ]
+  },
+  {
+    "promo_id": "promo_ep35_sc3_71.0",
+    "rank": 11,
+    "segments": [
+      {
+        "episode": 35,
+        "start_ts": "01:11.00",
+        "end_ts": "02:05.50"
+      }
+    ],
+    "total_duration_sec": 54.5,
+    "heuristic_scores": {
+      "hook_score": 2,
+      "cliffhanger_score": 4,
+      "dialogue_score": 10,
+      "activity_score": 10,
+      "heuristic_score": 5.8
+    },
+    "evaluation_status": "llm_evaluated",
+    "llm_scores": {
+      "hook_score": 6,
+      "cliffhanger_score": 7,
+      "standalone_score": 5,
+      "overall_score": 6.0
+    },
+    "hook_quote": "\"Then how did you survive?\"",
+    "cliffhanger": "\"Then why did they never tell us?\"",
+    "why_it_works": "The opening question sparks immediate curiosity, while the final unanswered mystery compels viewers to seek answers.",
+    "standalone_context": "A mother confronts her son about surviving a war ambush, revealing hidden betrayal and unanswered questions.",
+    "confidence": "medium",
+    "risk_flags": [
+      "Human editorial review required"
+    ]
+  },
+  {
+    "promo_id": "promo_ep6_sc2_74.3",
+    "rank": 12,
+    "segments": [
+      {
+        "episode": 6,
+        "start_ts": "01:14.30",
+        "end_ts": "01:55.00"
+      }
+    ],
+    "total_duration_sec": 40.7,
+    "heuristic_scores": {
+      "hook_score": 4,
+      "cliffhanger_score": 0,
+      "dialogue_score": 10,
+      "activity_score": 10,
+      "heuristic_score": 5.2
+    },
+    "evaluation_status": "llm_evaluated",
+    "llm_scores": {
+      "hook_score": 3,
+      "cliffhanger_score": 2,
+      "standalone_score": 8,
+      "overall_score": 6.0
+    },
+    "hook_quote": "",
+    "cliffhanger": "",
+    "why_it_works": "Shows a quiet, hopeful moment that hints at deeper loss and connection.",
+    "standalone_context": "Juliana cleans a ruined home while a mysterious man helps rebuild it, revealing her grief and emerging hope.",
+    "confidence": "medium",
+    "risk_flags": [
+      "Human editorial review required"
+    ]
+  },
+  {
+    "promo_id": "promo_ep41_sc1_1.8",
+    "rank": 13,
+    "segments": [
+      {
+        "episode": 41,
+        "start_ts": "00:01.80",
+        "end_ts": "00:52.80"
+      }
+    ],
+    "total_duration_sec": 51.0,
+    "heuristic_scores": {
+      "hook_score": 2,
+      "cliffhanger_score": 2,
+      "dialogue_score": 10,
+      "activity_score": 10,
+      "heuristic_score": 5.2
+    },
+    "evaluation_status": "llm_evaluated",
+    "llm_scores": {
+      "hook_score": 6,
+      "cliffhanger_score": 7,
+      "standalone_score": 5,
+      "overall_score": 6.0
+    },
+    "hook_quote": "\"Wait.\"",
+    "cliffhanger": "\"And now they can all see what you truly are.\"",
+    "why_it_works": "The opening command and the closing threat create immediate tension and a promise of conflict.",
+    "standalone_context": "A woman named Juliana is being publicly displayed as a disgraced bride, while Catherine, a powerful figure, taunts her.",
+    "confidence": "medium",
+    "risk_flags": [
+      "Human editorial review required"
+    ]
+  },
+  {
+    "promo_id": "promo_ep9_sc1_39.8",
+    "rank": 14,
+    "segments": [
+      {
+        "episode": 9,
+        "start_ts": "00:39.80",
+        "end_ts": "01:19.50"
+      }
+    ],
+    "total_duration_sec": 39.7,
+    "heuristic_scores": {
+      "hook_score": 2,
+      "cliffhanger_score": 2,
+      "dialogue_score": 10,
+      "activity_score": 10,
+      "heuristic_score": 5.2
+    },
+    "evaluation_status": "llm_evaluated",
+    "llm_scores": {
+      "hook_score": 3,
+      "cliffhanger_score": 7,
+      "standalone_score": 8,
+      "overall_score": 6.0
+    },
+    "hook_quote": "",
+    "cliffhanger": "\"You cannot let the whole village start talking about you.\"",
+    "why_it_works": "The ending’s warning and defiant reply create tension that pulls viewers in.",
+    "standalone_context": "A healer attempts to save a sick child while a mother pleads for help, and a guardian warns against village gossip.",
+    "confidence": "medium",
+    "risk_flags": [
+      "Human editorial review required",
+      "Missing context for stakes",
+      "Potentially confusing character motivations"
+    ]
+  },
+  {
+    "promo_id": "promo_ep12_sc1_20.8",
+    "rank": 15,
+    "segments": [
+      {
+        "episode": 12,
+        "start_ts": "00:20.80",
+        "end_ts": "00:46.60"
+      }
+    ],
+    "total_duration_sec": 25.8,
+    "heuristic_scores": {
+      "hook_score": 2,
+      "cliffhanger_score": 2,
+      "dialogue_score": 10,
+      "activity_score": 10,
+      "heuristic_score": 5.2
+    },
+    "evaluation_status": "llm_evaluated",
+    "llm_scores": {
+      "hook_score": 4,
+      "cliffhanger_score": 8,
+      "standalone_score": 5,
+      "overall_score": 6.0
+    },
+    "hook_quote": "\"I have never touched your property.\"",
+    "cliffhanger": "\"I want to see you crawl, sister.\"",
+    "why_it_works": "The opening establishes tension with a defiant claim, while the ending leaves a provocative threat that urges viewers to seek resolution.",
+    "standalone_context": "A confrontation over a stolen pocket watch involving Alexander, Gerald, Juliana, and Clarissa in a cottage setting.",
+    "confidence": "medium",
+    "risk_flags": [
+      "Human editorial review required"
+    ]
+  },
+  {
+    "promo_id": "promo_ep23_sc1_0.0",
+    "rank": 16,
+    "segments": [
+      {
+        "episode": 23,
+        "start_ts": "00:00.00",
+        "end_ts": "00:58.50"
+      }
+    ],
+    "total_duration_sec": 58.5,
+    "heuristic_scores": {
+      "hook_score": 2,
+      "cliffhanger_score": 0,
+      "dialogue_score": 10,
+      "activity_score": 10.0,
+      "heuristic_score": 4.6
+    },
+    "evaluation_status": "llm_evaluated",
+    "llm_scores": {
+      "hook_score": 7,
+      "cliffhanger_score": 4,
+      "standalone_score": 6,
+      "overall_score": 6.0
+    },
+    "hook_quote": "\"Juliana, we cannot stay for long. Someone will come.\"",
+    "cliffhanger": "Juliana draws in a sharp, startled breath, her eyes widening in horror.",
+    "why_it_works": "The opening tension and the sudden revelation of a potential threat hook viewers, while the final gasp hints at danger, prompting curiosity.",
+    "standalone_context": "A caretaker and a noblewoman are in a dimly lit bedroom, concerned about an elderly woman's deteriorating health and a mysterious threat looming.",
+    "confidence": "medium",
+    "risk_flags": [
+      "Human editorial review required",
+      "Missing context may confuse new viewers",
+      "The cliffhanger is subtle and may not compel all viewers"
+    ]
+  },
+  {
+    "promo_id": "promo_ep43_sc1_35.0",
+    "rank": 17,
+    "segments": [
+      {
+        "episode": 43,
+        "start_ts": "00:35.00",
+        "end_ts": "01:33.20"
+      }
+    ],
+    "total_duration_sec": 58.2,
+    "heuristic_scores": {
+      "hook_score": 2,
+      "cliffhanger_score": 0,
+      "dialogue_score": 10,
+      "activity_score": 10,
+      "heuristic_score": 4.6
+    },
+    "evaluation_status": "llm_evaluated",
+    "llm_scores": {
+      "hook_score": 2,
+      "cliffhanger_score": 8,
+      "standalone_score": 5,
+      "overall_score": 6.0
+    },
+    "hook_quote": "",
+    "cliffhanger": "\"His estate and title were subsequently transferred under false authority.\"",
+    "why_it_works": "The final revelation sparks immediate intrigue, while the opening’s lack of a clear hook keeps viewers on edge.",
+    "standalone_context": "A high‑stakes council meeting where a Crown official exposes a secret military leak, implicating key nobles and revealing a false death report.",
+    "confidence": "medium",
+    "risk_flags": [
+      "Human editorial review required",
+      "missing clear hook",
+      "complex political context may confuse new viewers"
+    ]
+  },
+  {
+    "promo_id": "promo_ep16_sc1_52.8",
+    "rank": 18,
+    "segments": [
+      {
+        "episode": 16,
+        "start_ts": "00:52.80",
+        "end_ts": "01:23.19"
+      }
+    ],
+    "total_duration_sec": 30.39,
+    "heuristic_scores": {
+      "hook_score": 2,
+      "cliffhanger_score": 0,
+      "dialogue_score": 10,
+      "activity_score": 10,
+      "heuristic_score": 4.6
+    },
+    "evaluation_status": "llm_evaluated",
+    "llm_scores": {
+      "hook_score": 3,
+      "cliffhanger_score": 7,
+      "standalone_score": 6,
+      "overall_score": 6.0
+    },
+    "hook_quote": "",
+    "cliffhanger": "\"No.\"",
+    "why_it_works": "The sudden reveal of betrayal and a terse, ambiguous refusal hook the viewer, while the final “No.” leaves a question about the relationship and stakes.",
+    "standalone_context": "A confrontation between Alexander and a betrayed ally ends with a mysterious refusal, hinting at deeper ties and conflict.",
+    "confidence": "medium",
+    "risk_flags": [
+      "Human editorial review required",
+      "Violence",
+      "Gore"
+    ]
+  },
+  {
+    "promo_id": "promo_ep18_sc5_128.5",
+    "rank": 19,
+    "segments": [
+      {
+        "episode": 18,
+        "start_ts": "02:08.50",
+        "end_ts": "03:06.50"
+      }
+    ],
+    "total_duration_sec": 58.0,
+    "heuristic_scores": {
+      "hook_score": 0,
+      "cliffhanger_score": 2,
+      "dialogue_score": 10,
+      "activity_score": 10,
+      "heuristic_score": 4.6
+    },
+    "evaluation_status": "llm_evaluated",
+    "llm_scores": {
+      "hook_score": 4,
+      "cliffhanger_score": 7,
+      "standalone_score": 5,
+      "overall_score": 6.0
+    },
+    "hook_quote": "Close-up of Juliana kneeling in the mud, her face blackened with soot and tears streaming down her cheeks as she clutches the charred ledger.",
+    "cliffhanger": "\"What are you going to do?\"",
+    "why_it_works": "The opening visual sets a dire tone, while the final question leaves the audience wondering about the next move.",
+    "standalone_context": "A village home is burning; Juliana mourns loss, and Alexander vows revenge.",
+    "confidence": "medium",
+    "risk_flags": [
+      "Human editorial review required",
+      "Violence",
+      "Lack of context for new viewers"
+    ]
+  },
+  {
+    "promo_id": "promo_ep14_sc1_0.0",
+    "rank": 20,
+    "segments": [
+      {
+        "episode": 14,
+        "start_ts": "00:00.00",
+        "end_ts": "00:40.50"
+      }
+    ],
+    "total_duration_sec": 40.5,
+    "heuristic_scores": {
+      "hook_score": 0,
+      "cliffhanger_score": 2,
+      "dialogue_score": 10,
+      "activity_score": 10,
+      "heuristic_score": 4.6
+    },
+    "evaluation_status": "llm_evaluated",
+    "llm_scores": {
+      "hook_score": 4,
+      "cliffhanger_score": 3,
+      "standalone_score": 8,
+      "overall_score": 6.0
+    },
+    "hook_quote": "",
+    "cliffhanger": "Alexander carries Juliana past the foggy estate grounds.",
+    "why_it_works": "The visual tension of a blood‑streaked hand and the dramatic rescue hook the viewer, while the emotional reunion keeps them engaged, but the ending lacks a clear unresolved hook.",
+    "standalone_context": "Juliana is rescued from a police guard after a mysterious ordeal, and Alexander frees her from shackles, showing a dramatic rescue and emotional reunion.",
+    "confidence": "medium",
+    "risk_flags": [
+      "Human editorial review required"
+    ]
+  },
+  {
+    "promo_id": "promo_ep5_sc1_41.5",
+    "rank": 21,
+    "segments": [
+      {
+        "episode": 5,
+        "start_ts": "00:41.50",
+        "end_ts": "01:41.50"
+      }
+    ],
+    "total_duration_sec": 60.0,
+    "heuristic_scores": {
+      "hook_score": 0,
+      "cliffhanger_score": 0,
+      "dialogue_score": 10,
+      "activity_score": 10,
+      "heuristic_score": 4.0
+    },
+    "evaluation_status": "llm_evaluated",
+    "llm_scores": {
+      "hook_score": 4,
+      "cliffhanger_score": 7,
+      "standalone_score": 5,
+      "overall_score": 6.0
+    },
+    "hook_quote": "\"Enough sentiment.\"",
+    "cliffhanger": "\"Choose your next words carefully.\"",
+    "why_it_works": "The opening cuts to a terse dismissal that hints at conflict, while the ending delivers a chilling warning that invites curiosity.",
+    "standalone_context": "A family feud over a treasured ledger escalates into a public humiliation, with a mysterious ally offering protection.",
+    "confidence": "medium",
+    "risk_flags": [
+      "Human editorial review required"
+    ]
+  },
+  {
+    "promo_id": "promo_ep44_sc2_38.8",
+    "rank": 22,
+    "segments": [
+      {
+        "episode": 44,
+        "start_ts": "00:38.80",
+        "end_ts": "01:10.50"
+      }
+    ],
+    "total_duration_sec": 31.7,
+    "heuristic_scores": {
+      "hook_score": 6,
+      "cliffhanger_score": 4,
+      "dialogue_score": 10,
+      "activity_score": 10,
+      "heuristic_score": 7.0
+    },
+    "evaluation_status": "llm_evaluated",
+    "llm_scores": {
+      "hook_score": 4,
+      "cliffhanger_score": 7,
+      "standalone_score": 5,
+      "overall_score": 5.5
+    },
+    "hook_quote": "\"I never stopped loving you.\"",
+    "cliffhanger": "\"Her?!\"",
+    "why_it_works": "Emotional confrontation and a sudden reveal of a new ally create tension, but the hook is weak and context-heavy.",
+    "standalone_context": "A grieving Catherine confronts Alexander, who rejects her and then turns to a chained woman, Juliana, implying a new alliance.",
+    "confidence": "medium",
+    "risk_flags": [
+      "Human editorial review required"
+    ]
+  },
+  {
+    "promo_id": "promo_ep13_sc2_47.0",
+    "rank": 23,
+    "segments": [
+      {
+        "episode": 13,
+        "start_ts": "00:47.00",
+        "end_ts": "01:47.00"
+      }
+    ],
+    "total_duration_sec": 60.0,
+    "heuristic_scores": {
+      "hook_score": 2,
+      "cliffhanger_score": 0,
+      "dialogue_score": 10,
+      "activity_score": 10,
+      "heuristic_score": 4.6
+    },
+    "evaluation_status": "llm_evaluated",
+    "llm_scores": {
+      "hook_score": 6,
+      "cliffhanger_score": 5,
+      "standalone_score": 4,
+      "overall_score": 5.5
+    },
+    "hook_quote": "\"Juliana, stop!\"",
+    "cliffhanger": "\"Please, ring... you have to be here.\"",
+    "why_it_works": "The opening scream and frantic action hook the viewer, while the sudden discovery of a ring at the end leaves a tangible mystery.",
+    "standalone_context": "A woman named Juliana is trapped in a frozen thorny thicket while a man named Alexander struggles against restraints, and a sinister figure watches from a balcony.",
+    "confidence": "medium",
+    "risk_flags": [
+      "Human editorial review required",
+      "high violence",
+      "blood gore"
+    ]
+  },
+  {
+    "promo_id": "promo_ep31_sc1_17.6",
+    "rank": 24,
+    "segments": [
+      {
+        "episode": 31,
+        "start_ts": "00:17.60",
+        "end_ts": "01:17.60"
+      }
+    ],
+    "total_duration_sec": 60.0,
+    "heuristic_scores": {
+      "hook_score": 2,
+      "cliffhanger_score": 0,
+      "dialogue_score": 10,
+      "activity_score": 10,
+      "heuristic_score": 4.6
+    },
+    "evaluation_status": "llm_evaluated",
+    "llm_scores": {
+      "hook_score": 6,
+      "cliffhanger_score": 2,
+      "standalone_score": 5,
+      "overall_score": 5.5
+    },
+    "hook_quote": "\"You seem very pleased.\"",
+    "cliffhanger": "\"A man with more honor than the people sitting above this dungeon.\"",
+    "why_it_works": "The opening defiant line and the final proud declaration create a tense, confrontational arc that hints at deeper conflict.",
+    "standalone_context": "Juliana is chained in a dungeon, being tormented by Catherine, who mocks her past and challenges her choices.",
+    "confidence": "medium",
+    "risk_flags": [
+      "Human editorial review required",
+      "violent content",
+      "intense dialogue"
+    ]
+  },
+  {
+    "promo_id": "promo_ep4_sc1_7.5",
+    "rank": 25,
+    "segments": [
+      {
+        "episode": 4,
+        "start_ts": "00:07.50",
+        "end_ts": "00:36.00"
+      }
+    ],
+    "total_duration_sec": 28.5,
+    "heuristic_scores": {
+      "hook_score": 4,
+      "cliffhanger_score": 4,
+      "dialogue_score": 10,
+      "activity_score": 10.0,
+      "heuristic_score": 6.4
+    },
+    "evaluation_status": "llm_evaluated",
+    "llm_scores": {
+      "hook_score": 4,
+      "cliffhanger_score": 3,
+      "standalone_score": 7,
+      "overall_score": 5.0
+    },
+    "hook_quote": "\"How fitting.\"",
+    "cliffhanger": "",
+    "why_it_works": "The opening humor and tension hint at conflict, while the ending leaves a vague mystery that invites curiosity.",
+    "standalone_context": "A wedding scene where a man offers a ring to a skeptical woman, with a mysterious stranger observing.",
+    "confidence": "medium",
+    "risk_flags": [
+      "Human editorial review required",
+      "Missing context for characters",
+      "Unclear stakes",
+      "Weak narrative payoff"
+    ]
+  },
+  {
+    "promo_id": "promo_ep38_sc1_15.5",
+    "rank": 26,
+    "segments": [
+      {
+        "episode": 38,
+        "start_ts": "00:15.50",
+        "end_ts": "00:51.00"
+      }
+    ],
+    "total_duration_sec": 35.5,
+    "heuristic_scores": {
+      "hook_score": 2,
+      "cliffhanger_score": 4,
+      "dialogue_score": 10,
+      "activity_score": 10,
+      "heuristic_score": 5.8
+    },
+    "evaluation_status": "llm_evaluated",
+    "llm_scores": {
+      "hook_score": 4,
+      "cliffhanger_score": 3,
+      "standalone_score": 7,
+      "overall_score": 5.0
+    },
+    "hook_quote": "\"Why?\"",
+    "cliffhanger": "\"What if I never see you again?\"",
+    "why_it_works": "It captures hunger and desperation, but lacks a strong narrative hook or unresolved tension.",
+    "standalone_context": "A prisoner named Juliana receives a loaf of bread from a guard, revealing her dire situation and emotional turmoil.",
+    "confidence": "medium",
+    "risk_flags": [
+      "Human editorial review required",
+      "Missing broader context may confuse viewers",
+      "Emotional intensity could be too heavy for a brief promo"
+    ]
+  },
+  {
+    "promo_id": "promo_ep33_sc1_21.0",
+    "rank": 27,
+    "segments": [
+      {
+        "episode": 33,
+        "start_ts": "00:21.00",
+        "end_ts": "01:19.50"
+      }
+    ],
+    "total_duration_sec": 58.5,
+    "heuristic_scores": {
+      "hook_score": 2,
+      "cliffhanger_score": 2,
+      "dialogue_score": 10,
+      "activity_score": 10,
+      "heuristic_score": 5.2
+    },
+    "evaluation_status": "llm_evaluated",
+    "llm_scores": {
+      "hook_score": 6,
+      "cliffhanger_score": 7,
+      "standalone_score": 4,
+      "overall_score": 5.0
+    },
+    "hook_quote": "\"What herbs?\"",
+    "cliffhanger": "\"What do you want me to say?!\"",
+    "why_it_works": "Intense interrogation and a desperate plea create tension, but lack of context limits immediate engagement.",
+    "standalone_context": "A maid is interrogated by a Lord about herbs used to save a child, but viewers need prior knowledge to fully grasp stakes.",
+    "confidence": "medium",
+    "risk_flags": [
+      "Human editorial review required",
+      "missing context",
+      "confusing character references"
+    ]
+  },
+  {
+    "promo_id": "promo_ep24_sc1_3.5",
+    "rank": 28,
+    "segments": [
+      {
+        "episode": 24,
+        "start_ts": "00:03.50",
+        "end_ts": "00:43.00"
+      }
+    ],
+    "total_duration_sec": 39.5,
+    "heuristic_scores": {
+      "hook_score": 2,
+      "cliffhanger_score": 2,
+      "dialogue_score": 10,
+      "activity_score": 10,
+      "heuristic_score": 5.2
+    },
+    "evaluation_status": "llm_evaluated",
+    "llm_scores": {
+      "hook_score": 2,
+      "cliffhanger_score": 3,
+      "standalone_score": 7,
+      "overall_score": 5.0
+    },
+    "hook_quote": "",
+    "cliffhanger": "\"And certainly not a woman whose opinion matters.\"",
+    "why_it_works": "The clip sets up a tense power struggle and hints at a larger conflict, but the opening and ending lack strong hooks.",
+    "standalone_context": "A new maid confronts a cruel noblewoman in a locked chamber while a duchess lies unconscious.",
+    "confidence": "medium",
+    "risk_flags": [
+      "Human editorial review required",
+      "Violence"
+    ]
+  },
+  {
+    "promo_id": "promo_ep11_sc2_58.0",
+    "rank": 29,
+    "segments": [
+      {
+        "episode": 11,
+        "start_ts": "00:58.00",
+        "end_ts": "01:25.00"
+      }
+    ],
+    "total_duration_sec": 27.0,
+    "heuristic_scores": {
+      "hook_score": 2,
+      "cliffhanger_score": 2,
+      "dialogue_score": 10,
+      "activity_score": 10.0,
+      "heuristic_score": 5.2
+    },
+    "evaluation_status": "llm_evaluated",
+    "llm_scores": {
+      "hook_score": 6,
+      "cliffhanger_score": 5,
+      "standalone_score": 4,
+      "overall_score": 5.0
+    },
+    "hook_quote": "\"Stop! Those are my mother's medicines!\"",
+    "cliffhanger": "\"Don't!\"",
+    "why_it_works": "The promo opens with a desperate plea and ends with a tense warning, creating a clear emotional arc that invites curiosity.",
+    "standalone_context": "Juliana is being threatened by a Constable over her mother's medicines, while Gerald and Alexander are involved in a tense confrontation.",
+    "confidence": "medium",
+    "risk_flags": [
+      "Human editorial review required"
+    ]
+  },
+  {
+    "promo_id": "promo_ep21_sc3_42.8",
+    "rank": 30,
+    "segments": [
+      {
+        "episode": 21,
+        "start_ts": "00:42.80",
+        "end_ts": "01:39.20"
+      }
+    ],
+    "total_duration_sec": 56.4,
+    "heuristic_scores": {
+      "hook_score": 0,
+      "cliffhanger_score": 4,
+      "dialogue_score": 10,
+      "activity_score": 10,
+      "heuristic_score": 5.2
+    },
+    "evaluation_status": "llm_evaluated",
+    "llm_scores": {
+      "hook_score": 2,
+      "cliffhanger_score": 8,
+      "standalone_score": 4,
+      "overall_score": 5.0
+    },
+    "hook_quote": "",
+    "cliffhanger": "\"What do you mean? Is someone ill? The Dowager Duchess?\"",
+    "why_it_works": "The ending introduces a new mystery that pulls viewers in, while the calm, healing scene offers emotional payoff.",
+    "standalone_context": "A young boy is ill; a healer attempts to save him, and a servant expresses gratitude, hinting at larger social tensions.",
+    "confidence": "medium",
+    "risk_flags": [
+      "Human editorial review required"
+    ]
+  },
+  {
+    "promo_id": "promo_ep17_sc1_16.2",
+    "rank": 31,
+    "segments": [
+      {
+        "episode": 17,
+        "start_ts": "00:16.20",
+        "end_ts": "00:36.50"
+      }
+    ],
+    "total_duration_sec": 20.3,
+    "heuristic_scores": {
+      "hook_score": 2,
+      "cliffhanger_score": 2,
+      "dialogue_score": 10,
+      "activity_score": 9.0,
+      "heuristic_score": 5.05
+    },
+    "evaluation_status": "llm_evaluated",
+    "llm_scores": {
+      "hook_score": 7,
+      "cliffhanger_score": 2,
+      "standalone_score": 6,
+      "overall_score": 5.0
+    },
+    "hook_quote": "For what?",
+    "cliffhanger": "",
+    "why_it_works": "The opening question sparks immediate curiosity, while the emotional exchange builds tension, but the ending lacks a clear unresolved hook.",
+    "standalone_context": "A protective man offers to shield a wounded woman from a group of men, hinting at past conflict.",
+    "confidence": "medium",
+    "risk_flags": [
+      "Human editorial review required",
+      "Missing broader context may confuse new viewers",
+      "Emotional intensity could overwhelm some audiences"
+    ]
+  },
+  {
+    "promo_id": "promo_ep39_sc3_29.6",
+    "rank": 32,
+    "segments": [
+      {
+        "episode": 39,
+        "start_ts": "00:29.60",
+        "end_ts": "00:50.00"
+      }
+    ],
+    "total_duration_sec": 20.4,
+    "heuristic_scores": {
+      "hook_score": 4,
+      "cliffhanger_score": 0,
+      "dialogue_score": 10.0,
+      "activity_score": 7.0,
+      "heuristic_score": 4.75
+    },
+    "evaluation_status": "llm_evaluated",
+    "llm_scores": {
+      "hook_score": 6,
+      "cliffhanger_score": 7,
+      "standalone_score": 4,
+      "overall_score": 5.0
+    },
+    "hook_quote": "\"Stop!\"",
+    "cliffhanger": "\"Tell the Duke.\"",
+    "why_it_works": "The opening command and sudden attack create immediate tension, while the final line hints at a larger plot, enticing viewers to learn more.",
+    "standalone_context": "A cart driver attempts to deliver firewood, but is violently intercepted by royal guards and loyalists, suggesting a covert rebellion.",
+    "confidence": "medium",
+    "risk_flags": [
+      "Human editorial review required",
+      "Violent content",
+      "Potentially confusing character roles"
+    ]
+  },
+  {
+    "promo_id": "promo_ep22_sc2_46.0",
+    "rank": 33,
+    "segments": [
+      {
+        "episode": 22,
+        "start_ts": "00:46.00",
+        "end_ts": "01:28.50"
+      }
+    ],
+    "total_duration_sec": 42.5,
+    "heuristic_scores": {
+      "hook_score": 2,
+      "cliffhanger_score": 0,
+      "dialogue_score": 10,
+      "activity_score": 10,
+      "heuristic_score": 4.6
+    },
+    "evaluation_status": "llm_evaluated",
+    "llm_scores": {
+      "hook_score": 2,
+      "cliffhanger_score": 8,
+      "standalone_score": 4,
+      "overall_score": 5.0
+    },
+    "hook_quote": "",
+    "cliffhanger": "\"Beyond the grand staircase. Few servants go there.\"",
+    "why_it_works": "The ending hints at a hidden danger, sparking curiosity.",
+    "standalone_context": "A new servant, Lady Juliana, is being tested by a stern Housekeeper in a manor’s dim hallway.",
+    "confidence": "medium",
+    "risk_flags": [
+      "Human editorial review required",
+      "Missing context for new viewers",
+      "Confusing character references",
+      "No clear narrative payoff"
+    ]
+  },
+  {
+    "promo_id": "promo_ep7_sc1_4.8",
+    "rank": 34,
+    "segments": [
+      {
+        "episode": 7,
+        "start_ts": "00:04.80",
+        "end_ts": "01:01.50"
+      }
+    ],
+    "total_duration_sec": 56.7,
+    "heuristic_scores": {
+      "hook_score": 0,
+      "cliffhanger_score": 2,
+      "dialogue_score": 10,
+      "activity_score": 10,
+      "heuristic_score": 4.6
+    },
+    "evaluation_status": "llm_evaluated",
+    "llm_scores": {
+      "hook_score": 3,
+      "cliffhanger_score": 2,
+      "standalone_score": 6,
+      "overall_score": 5.0
+    },
+    "hook_quote": "",
+    "cliffhanger": "\"I chose a man who stood beside me when you walked away.\"",
+    "why_it_works": "The visual contrast and sharp dialogue create a tense moment, but lack a clear hook or cliffhanger.",
+    "standalone_context": "A humble woman confronts a snobbish aristocrat and her companion at a stone cottage, defending her dignity.",
+    "confidence": "medium",
+    "risk_flags": [
+      "Human editorial review required"
+    ]
+  },
+  {
+    "promo_id": "promo_ep37_sc2_34.5",
+    "rank": 35,
+    "segments": [
+      {
+        "episode": 37,
+        "start_ts": "00:34.50",
+        "end_ts": "01:15.50"
+      }
+    ],
+    "total_duration_sec": 41.0,
+    "heuristic_scores": {
+      "hook_score": 0,
+      "cliffhanger_score": 2,
+      "dialogue_score": 10,
+      "activity_score": 10,
+      "heuristic_score": 4.6
+    },
+    "evaluation_status": "llm_evaluated",
+    "llm_scores": {
+      "hook_score": 3,
+      "cliffhanger_score": 8,
+      "standalone_score": 4,
+      "overall_score": 5.0
+    },
+    "hook_quote": "Wide tracking shot down a palatial marble hall as a butler carries a silver tray toward double doors.",
+    "cliffhanger": "\"To whom?\"",
+    "why_it_works": "The ending poses a direct question that hints at a larger conspiracy, while the opening sets a grand, mysterious tone.",
+    "standalone_context": "A wealthy lady receives an invitation to a wedding that includes a shocking post‑ceremony event, hinting at a public execution warning.",
+    "confidence": "medium",
+    "risk_flags": [
+      "Human editorial review required"
+    ]
+  },
+  {
+    "promo_id": "promo_ep47_sc3_56.8",
+    "rank": 36,
+    "segments": [
+      {
+        "episode": 47,
+        "start_ts": "00:56.80",
+        "end_ts": "01:23.50"
+      }
+    ],
+    "total_duration_sec": 26.7,
+    "heuristic_scores": {
+      "hook_score": 2,
+      "cliffhanger_score": 0,
+      "dialogue_score": 10,
+      "activity_score": 8.0,
+      "heuristic_score": 4.3
+    },
+    "evaluation_status": "llm_evaluated",
+    "llm_scores": {
+      "hook_score": 6,
+      "cliffhanger_score": 5,
+      "standalone_score": 4,
+      "overall_score": 5.0
+    },
+    "hook_quote": "\"You dare show your face in Ashbourne courtyard?\"",
+    "cliffhanger": "\"Stop.\"",
+    "why_it_works": "The opening accusation sparks intrigue, while the abrupt halt at the end leaves a tense unresolved moment.",
+    "standalone_context": "A noblewoman confronts a desperate woman in a rain‑soaked courtyard, with guards ready to enforce a harsh decree.",
+    "confidence": "medium",
+    "risk_flags": [
+      "Human editorial review required",
+      "Violence",
+      "Lack of broader context"
+    ]
+  },
+  {
+    "promo_id": "promo_ep40_sc3_55.8",
+    "rank": 37,
+    "segments": [
+      {
+        "episode": 40,
+        "start_ts": "00:55.80",
+        "end_ts": "01:18.50"
+      }
+    ],
+    "total_duration_sec": 22.7,
+    "heuristic_scores": {
+      "hook_score": 2,
+      "cliffhanger_score": 0,
+      "dialogue_score": 10.0,
+      "activity_score": 5.0,
+      "heuristic_score": 3.85
+    },
+    "evaluation_status": "llm_evaluated",
+    "llm_scores": {
+      "hook_score": 3,
+      "cliffhanger_score": 7,
+      "standalone_score": 4,
+      "overall_score": 4.5
+    },
+    "hook_quote": "",
+    "cliffhanger": "\"And its witch will be dead.\"",
+    "why_it_works": "The final threat hints at looming danger, enticing viewers to seek resolution.",
+    "standalone_context": "A conspiratorial elder nobleman is planning a political takeover and a witch’s death during a cathedral ceremony.",
+    "confidence": "medium",
+    "risk_flags": [
+      "Human editorial review required"
+    ]
+  },
+  {
+    "promo_id": "promo_ep3_sc3_64.5",
+    "rank": 38,
+    "segments": [
+      {
+        "episode": 3,
+        "start_ts": "01:04.50",
+        "end_ts": "01:29.30"
+      }
+    ],
+    "total_duration_sec": 24.8,
+    "heuristic_scores": {
+      "hook_score": 2,
+      "cliffhanger_score": 4,
+      "dialogue_score": 10,
+      "activity_score": 8.0,
+      "heuristic_score": 5.5
+    },
+    "evaluation_status": "llm_evaluated",
+    "llm_scores": {
+      "hook_score": 3,
+      "cliffhanger_score": 2,
+      "standalone_score": 6,
+      "overall_score": 4.0
+    },
+    "hook_quote": "",
+    "cliffhanger": "Medium close-up of Gerald turning frantically to the remaining guards and congregation, panicking.",
+    "why_it_works": "The dramatic confrontation and physical action quickly draw attention, but lack a clear narrative hook or cliffhanger.",
+    "standalone_context": "A guard is dragging a woman, a mysterious stranger intervenes, and a fight ensues in a cathedral.",
+    "confidence": "medium",
+    "risk_flags": [
+      "Human editorial review required",
+      "missing context for characters",
+      "no clear narrative payoff"
+    ]
+  },
+  {
+    "promo_id": "promo_ep28_sc1_70.5",
+    "rank": 39,
+    "segments": [
+      {
+        "episode": 28,
+        "start_ts": "01:10.50",
+        "end_ts": "02:02.00"
+      }
+    ],
+    "total_duration_sec": 51.5,
+    "heuristic_scores": {
+      "hook_score": 2,
+      "cliffhanger_score": 2,
+      "dialogue_score": 10,
+      "activity_score": 10,
+      "heuristic_score": 5.2
+    },
+    "evaluation_status": "llm_evaluated",
+    "llm_scores": {
+      "hook_score": 4,
+      "cliffhanger_score": 2,
+      "standalone_score": 5,
+      "overall_score": 4.0
+    },
+    "hook_quote": "Tight close-up of Catherine's gloved hands grabbing the delicate chain around Juliana's neck.",
+    "cliffhanger": "\"What a magnificent fall, Lady Juliana.\"",
+    "why_it_works": "The clip opens with a tense, physical confrontation that immediately signals danger, and it ends with a provocative taunt that hints at deeper conflict, keeping viewers curious.",
+    "standalone_context": "A powerful woman, Catherine, violently removes a silver locket from a frightened woman, Juliana, then reveals a family secret by reading a book tied to Juliana’s identity.",
+    "confidence": "medium",
+    "risk_flags": [
+      "Human editorial review required",
+      "Missing context for character motivations",
+      "Violent content may be off-putting",
+      "Confusing references to prior plot events"
+    ]
+  },
+  {
+    "promo_id": "promo_ep36_sc1_84.0",
+    "rank": 40,
+    "segments": [
+      {
+        "episode": 36,
+        "start_ts": "01:24.00",
+        "end_ts": "01:59.50"
+      }
+    ],
+    "total_duration_sec": 35.5,
+    "heuristic_scores": {
+      "hook_score": 2,
+      "cliffhanger_score": 2,
+      "dialogue_score": 10,
+      "activity_score": 10,
+      "heuristic_score": 5.2
+    },
+    "evaluation_status": "llm_evaluated",
+    "llm_scores": {
+      "hook_score": 4,
+      "cliffhanger_score": 5,
+      "standalone_score": 3,
+      "overall_score": 4.0
+    },
+    "hook_quote": "\"What?\"",
+    "cliffhanger": "\"You told them the truth!\"",
+    "why_it_works": "Intense emotional exchange hints at larger mystery but lacks clear hook or payoff.",
+    "standalone_context": "A son confronts his mother about her disappearance and alleged arrest, but viewers lack backstory on Ashbourne Manor and prior events.",
+    "confidence": "medium",
+    "risk_flags": [
+      "Human editorial review required",
+      "missing context",
+      "confusing character references"
+    ]
+  },
+  {
+    "promo_id": "promo_ep50_sc1_0.0",
+    "rank": 41,
+    "segments": [
+      {
+        "episode": 50,
+        "start_ts": "00:00.00",
+        "end_ts": "00:59.80"
+      }
+    ],
+    "total_duration_sec": 59.8,
+    "heuristic_scores": {
+      "hook_score": 0,
+      "cliffhanger_score": 0,
+      "dialogue_score": 10,
+      "activity_score": 10,
+      "heuristic_score": 4.0
+    },
+    "evaluation_status": "llm_evaluated",
+    "llm_scores": {
+      "hook_score": 3,
+      "cliffhanger_score": 4,
+      "standalone_score": 5,
+      "overall_score": 4.0
+    },
+    "hook_quote": "",
+    "cliffhanger": "\"Perhaps I like rooms no one uses.\"",
+    "why_it_works": "The intimate, provocative tone hints at a larger power dynamic, drawing curiosity without full context.",
+    "standalone_context": "A secretive, possibly corrupt priest and a seductive woman negotiate a morally ambiguous deal in a private setting.",
+    "confidence": "medium",
+    "risk_flags": [
+      "Human editorial review required",
+      "Violent or sexual content may limit audience",
+      "Lacks clear narrative context for new viewers"
+    ]
+  },
+  {
+    "promo_id": "promo_ep45_sc1_0.0",
+    "rank": 42,
+    "segments": [
+      {
+        "episode": 45,
+        "start_ts": "00:00.00",
+        "end_ts": "00:48.90"
+      }
+    ],
+    "total_duration_sec": 48.9,
+    "heuristic_scores": {
+      "hook_score": 0,
+      "cliffhanger_score": 0,
+      "dialogue_score": 10,
+      "activity_score": 10,
+      "heuristic_score": 4.0
+    },
+    "evaluation_status": "llm_evaluated",
+    "llm_scores": {
+      "hook_score": 3,
+      "cliffhanger_score": 2,
+      "standalone_score": 4,
+      "overall_score": 3.5
+    },
+    "hook_quote": "",
+    "cliffhanger": "\"I loved you before I ever knew who you were.\"",
+    "why_it_works": "Brief, emotionally charged reunion that hints at a larger backstory.",
+    "standalone_context": "A noblewoman, chained, is freed by a mysterious man who reveals himself as the Duke, sparking a tender moment of recognition.",
+    "confidence": "medium",
+    "risk_flags": [
+      "Human editorial review required",
+      "Missing context for new viewers",
+      "Potential confusion over character identities"
+    ]
+  },
+  {
+    "promo_id": "promo_ep34_sc1_57.6",
+    "rank": 43,
+    "segments": [
+      {
+        "episode": 34,
+        "start_ts": "00:57.60",
+        "end_ts": "01:57.20"
+      }
+    ],
+    "total_duration_sec": 59.6,
+    "heuristic_scores": {
+      "hook_score": 2,
+      "cliffhanger_score": 2,
+      "dialogue_score": 10,
+      "activity_score": 10,
+      "heuristic_score": 5.2
+    },
+    "evaluation_status": "llm_evaluated",
+    "llm_scores": {
+      "hook_score": 4,
+      "cliffhanger_score": 2,
+      "standalone_score": 3,
+      "overall_score": 3.0
+    },
+    "hook_quote": "\"What did you see?\"",
+    "cliffhanger": "",
+    "why_it_works": "Brief courtroom interrogation hints at deeper conflict but lacks a strong hook or payoff.",
+    "standalone_context": "A courtroom scene where a judge questions a maid about alleged herbal rituals, with Lady Juliana and a Lord present.",
+    "confidence": "medium",
+    "risk_flags": [
+      "Human editorial review required",
+      "Missing context for new viewers",
+      "Confusing character references",
+      "Weak narrative payoff"
+    ]
+  },
+  {
+    "promo_id": "promo_ep49_sc1_8.8",
+    "rank": 44,
+    "segments": [
+      {
+        "episode": 49,
+        "start_ts": "00:08.80",
+        "end_ts": "01:07.20"
+      }
+    ],
+    "total_duration_sec": 58.4,
+    "heuristic_scores": {
+      "hook_score": 0,
+      "cliffhanger_score": 2,
+      "dialogue_score": 10,
+      "activity_score": 10,
+      "heuristic_score": 4.6
+    },
+    "evaluation_status": "llm_evaluated",
+    "llm_scores": {
+      "hook_score": 2,
+      "cliffhanger_score": 6,
+      "standalone_score": 4,
+      "overall_score": 3.0
+    },
+    "hook_quote": "",
+    "cliffhanger": "\"And you always did have a taste for using me. It's why we suit each other.\"",
+    "why_it_works": "The final line hints at a deeper, potentially dangerous partnership that invites curiosity.",
+    "standalone_context": "Two enigmatic figures—Father Thomas and Catherine—meet in a derelict hall, exchanging cryptic remarks about secrecy and symbolism, suggesting a tense alliance.",
+    "confidence": "medium",
+    "risk_flags": [
+      "Human editorial review required",
+      "Ambiguous context may confuse new viewers",
+      "Potentially dark thematic content"
+    ]
+  },
+  {
+    "promo_id": "promo_ep26_sc1_10.5",
+    "rank": 45,
+    "segments": [
+      {
+        "episode": 26,
+        "start_ts": "00:10.50",
+        "end_ts": "01:07.00"
+      }
+    ],
+    "total_duration_sec": 56.5,
+    "heuristic_scores": {
+      "hook_score": 0,
+      "cliffhanger_score": 2,
+      "dialogue_score": 10,
+      "activity_score": 10,
+      "heuristic_score": 4.6
+    },
+    "evaluation_status": "llm_evaluated",
+    "llm_scores": {
+      "hook_score": 2,
+      "cliffhanger_score": 2,
+      "standalone_score": 4,
+      "overall_score": 3.0
+    },
+    "hook_quote": "",
+    "cliffhanger": "",
+    "why_it_works": "The clip offers a tense, intimate moment but lacks a compelling opening or unresolved ending to hook new viewers.",
+    "standalone_context": "A maid administers a mysterious antidote to a dying Duchess while fearing discovery by guards.",
+    "confidence": "medium",
+    "risk_flags": [
+      "Human editorial review required",
+      "Missing clear hook in first 3 seconds",
+      "Weak cliffhanger in final 5 seconds",
+      "Requires prior knowledge of characters and plot"
+    ]
+  },
+  {
+    "promo_id": "promo_ep19_sc2_41.5",
+    "rank": 46,
+    "segments": [
+      {
+        "episode": 19,
+        "start_ts": "00:41.50",
+        "end_ts": "01:29.50"
+      }
+    ],
+    "total_duration_sec": 48.0,
+    "heuristic_scores": {
+      "hook_score": 0,
+      "cliffhanger_score": 2,
+      "dialogue_score": 10,
+      "activity_score": 10,
+      "heuristic_score": 4.6
+    },
+    "evaluation_status": "llm_evaluated",
+    "llm_scores": {
+      "hook_score": 2,
+      "cliffhanger_score": 2,
+      "standalone_score": 4,
+      "overall_score": 3.0
+    },
+    "hook_quote": "",
+    "cliffhanger": "\"Then Ashburg will remember who it belongs to.\"",
+    "why_it_works": "The promo hints at political intrigue and personal vengeance, but lacks a clear hook or unresolved question to pull in new viewers.",
+    "standalone_context": "Alexander confronts an informant in a forest about the rise of Lord Sterling and the imprisonment of his mother, hinting at a larger power struggle.",
+    "confidence": "medium",
+    "risk_flags": [
+      "Human editorial review required",
+      "Missing clear hook",
+      "Weak cliffhanger",
+      "Heavy reliance on prior knowledge"
+    ]
+  },
+  {
+    "promo_id": "promo_ep30_sc1_0.0",
+    "rank": 47,
+    "segments": [
+      {
+        "episode": 30,
+        "start_ts": "00:00.00",
+        "end_ts": "00:43.80"
+      }
+    ],
+    "total_duration_sec": 43.8,
+    "heuristic_scores": {
+      "hook_score": 0,
+      "cliffhanger_score": 2,
+      "dialogue_score": 10,
+      "activity_score": 9.0,
+      "heuristic_score": 4.45
+    },
+    "evaluation_status": "llm_evaluated",
+    "llm_scores": {
+      "hook_score": 3,
+      "cliffhanger_score": 2,
+      "standalone_score": 4,
+      "overall_score": 3.0
+    },
+    "hook_quote": "",
+    "cliffhanger": "",
+    "why_it_works": "The opening visual sets a tense mood, but the lack of immediate dialogue or action limits curiosity.",
+    "standalone_context": "A tense confrontation between an elder nobleman and a nervous servant over a hidden threat in a cellar.",
+    "confidence": "medium",
+    "risk_flags": [
+      "Human editorial review required",
+      "Missing clear hook dialogue",
+      "Unresolved cliffhanger",
+      "Confusing character roles"
+    ]
+  },
+  {
+    "promo_id": "promo_ep48_sc2_26.7",
+    "rank": 48,
+    "segments": [
+      {
+        "episode": 48,
+        "start_ts": "00:26.70",
+        "end_ts": "01:20.00"
+      }
+    ],
+    "total_duration_sec": 53.3,
+    "heuristic_scores": {
+      "hook_score": 0,
+      "cliffhanger_score": 0,
+      "dialogue_score": 10,
+      "activity_score": 10,
+      "heuristic_score": 4.0
+    },
+    "evaluation_status": "llm_evaluated",
+    "llm_scores": {
+      "hook_score": 3,
+      "cliffhanger_score": 2,
+      "standalone_score": 4,
+      "overall_score": 3.0
+    },
+    "hook_quote": "\"You sent for me, my lady?\"",
+    "cliffhanger": "",
+    "why_it_works": "Brief, tense exchange hints at intrigue but lacks a clear hook or payoff.",
+    "standalone_context": "A servant enters a lady’s chamber to discuss a secret plan involving the Duke’s bailiffs and a priest.",
+    "confidence": "medium",
+    "risk_flags": [
+      "Human editorial review required",
+      "Missing context for new viewers",
+      "Confusing character references",
+      "Weak narrative payoff"
+    ]
+  },
+  {
+    "promo_id": "promo_ep2_sc1_27.6",
+    "rank": 49,
+    "segments": [
+      {
+        "episode": 2,
+        "start_ts": "00:27.60",
+        "end_ts": "01:22.80"
+      }
+    ],
+    "total_duration_sec": 55.2,
+    "heuristic_scores": {
+      "hook_score": 2,
+      "cliffhanger_score": 2,
+      "dialogue_score": 10,
+      "activity_score": 10,
+      "heuristic_score": 5.2
+    },
+    "evaluation_status": "llm_failed",
+    "llm_scores": null,
+    "hook_quote": null,
+    "cliffhanger": null,
+    "why_it_works": null,
+    "standalone_context": null,
+    "confidence": null,
+    "risk_flags": [
+      "Human editorial review required",
+      "LLM evaluation failed; heuristic ranking only"
+    ]
+  },
+  {
+    "promo_id": "promo_ep20_sc2_25.5",
+    "rank": 50,
+    "segments": [
+      {
+        "episode": 20,
+        "start_ts": "00:25.50",
+        "end_ts": "00:56.50"
+      }
+    ],
+    "total_duration_sec": 31.0,
+    "heuristic_scores": {
+      "hook_score": 2,
+      "cliffhanger_score": 0,
+      "dialogue_score": 10,
+      "activity_score": 10,
+      "heuristic_score": 4.6
+    },
+    "evaluation_status": "llm_failed",
+    "llm_scores": null,
+    "hook_quote": null,
+    "cliffhanger": null,
+    "why_it_works": null,
+    "standalone_context": null,
+    "confidence": null,
+    "risk_flags": [
+      "Human editorial review required",
+      "LLM evaluation failed; heuristic ranking only"
+    ]
+  }
+]

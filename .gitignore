@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+venv/
+outputs/judge_cache/
+data/*.txt
+KukuFM_Raw_Outputs.zip
+submission_raw_outputs/
